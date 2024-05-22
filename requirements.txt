@@ -1,0 +1,11 @@
+transformers
+peft
+accelerate
+bitsandbytes
+safetensors
+sentencepiece
+chromadb
+langchain
+sentence-transformers
+gradio
+bs4
